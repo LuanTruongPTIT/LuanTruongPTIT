@@ -2,7 +2,7 @@
 My name is Luan Truong. I am an student in PTIT. I am interested in the following topics: Backend Nodejs<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lu%C3%A2n-tr%C6%B0%C6%A1ng-050b91263/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lu%C3%A2n-tr%C6%B0%C6%A1ng-050b91263/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LuanTruongPTIT) 
 
 
 
