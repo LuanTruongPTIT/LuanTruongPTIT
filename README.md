@@ -3,6 +3,9 @@ My name is Luan Truong. I am an student in PTIT. I am interested in the followin
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lu%C3%A2n-tr%C6%B0%C6%A1ng-050b91263/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LuanTruongPTIT) 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
+</div>
 
 
 
