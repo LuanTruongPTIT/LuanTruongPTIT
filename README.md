@@ -21,9 +21,9 @@
 - ##### Backends
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-<a href="https://github.com/LuanTruongPTIT/Shop-shoe">
+<a href="https://github.com/LuanTruongPTIT/Shopee_API-MSA-NestJS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LuanTruongPTIT&repo=Shop-shoe&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LuanTruongPTIT&repo=Shopee_API-MSA-NestJS&theme=radical" />
 </a>    
 <a href="https://github.com/LuanTruongPTIT/Clone-twitter">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
