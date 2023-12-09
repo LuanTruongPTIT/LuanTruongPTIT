@@ -19,6 +19,9 @@
   ## 🔮 Tech Stacks
 
 - ##### Backends
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F4D03F?style=for-the-badge&logo=JavaScript&logoColor=White&labelColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%233498DB?style=for-the-badge&logo=TypeScript&logoColor=Blue&labelColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-%23E74C3C?style=for-the-badge&logo=NestJS&logoColor=red&labelColor=white)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 <a href="https://github.com/LuanTruongPTIT/Shopee_API-MSA-NestJS">
