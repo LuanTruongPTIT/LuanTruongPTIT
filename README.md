@@ -23,7 +23,11 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-%233498DB?style=for-the-badge&logo=TypeScript&logoColor=Blue&labelColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-%23E74C3C?style=for-the-badge&logo=NestJS&logoColor=red&labelColor=white)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+- ##### Databases
+  ![Redis](https://img.shields.io/badge/Redis-%23E74C3C?style=for-the-badge&logo=redis&logoColor=red&labelColor=white)
+
 <a href="https://github.com/LuanTruongPTIT/Shopee_API-MSA-NestJS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LuanTruongPTIT&repo=Shopee_API-MSA-NestJS&theme=radical" />
