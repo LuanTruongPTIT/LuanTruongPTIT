@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
 </div>
 
-## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My fullname is Trương Đinh Kim Luân <h5> A passionate full stack undergraduate from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
+## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My fullname is Trương Đinh Kim Luân <h5> A passionate Backend Developer undergraduate from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 
 - 🎒 I’m currently final-year student at [**Posts and Telecommunications Institute of Technology Ho Chi Minh**](https://portal.ptit.edu.vn/), my major is **Information Security** 
